@@ -1,0 +1,9 @@
+[13-Jul-2026 20:22:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmgch5ax81n8/public_html/bvrm_digitals/pvc/demo/all-categories.php:1) in /home/pmgch5ax81n8/public_html/bvrm_digitals/pvc/demo/all-categories.php on line 1077
+[13-Jul-2026 20:22:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmgch5ax81n8/public_html/bvrm_digitals/pvc/demo/all-categories.php:1) in /home/pmgch5ax81n8/public_html/bvrm_digitals/pvc/demo/all-categories.php on line 1077
+[13-Jul-2026 20:22:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmgch5ax81n8/public_html/bvrm_digitals/pvc/demo/all-categories.php:1) in /home/pmgch5ax81n8/public_html/bvrm_digitals/pvc/demo/all-categories.php on line 1077
+[13-Jul-2026 20:22:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmgch5ax81n8/public_html/bvrm_digitals/pvc/demo/all-categories.php:1) in /home/pmgch5ax81n8/public_html/bvrm_digitals/pvc/demo/all-categories.php on line 1077
+[13-Jul-2026 20:22:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pmgch5ax81n8/public_html/bvrm_digitals/pvc/demo/all-categories.php:1) in /home/pmgch5ax81n8/public_html/bvrm_digitals/pvc/demo/all-categories.php on line 1077
+[19-Jul-2026 08:08:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_default_placeholder_img() in /home/pmgch5ax81n8/public_html/bvrm_digitals/pvc/demo1/all-categories.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/pmgch5ax81n8/public_html/bvrm_digitals/pvc/demo1/all-categories.php on line 35
